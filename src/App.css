@@ -14,7 +14,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,10 +21,22 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url("./assets/background-kc.png");
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-link {
   color: #61dafb;
+  padding-right: 3vh;
+}
+
+.App-link-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 @keyframes App-logo-spin {

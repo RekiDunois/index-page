@@ -8,16 +8,25 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          海のような波。
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className='App-link-container'>
+          <a
+            className="App-link"
+            href="https://blog.rekidunois.cc"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Blog
+          </a>
+          <a
+            className='App-link'
+            href='https://github.com/RekiDunois'
+            target='_blank'
+            rel='noopener noreferrer'>
+            GitHub
+          </a>
+        </div>
       </header>
     </div>
   );
