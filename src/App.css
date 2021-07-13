@@ -22,9 +22,24 @@
   font-size: calc(10px + 2vmin);
   color: white;
   background-image: url("./assets/background-kc.png");
-  background-position:center;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.App-Title {
+  color: whitesmoke;
+  padding-left: 3vh;
+  padding-right: 3vh;
+}
+
+.App-Title-Container {}
+
+.App-Title-Body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.349);
+  border-radius: 5vh;
 }
 
 .App-link {
@@ -32,7 +47,9 @@
   padding-right: 3vh;
 }
 
-.App-link-container{
+.App-link-container {
+  /* background-color: rgba(0, 0, 0, 0.349); */
+  border-radius: 5vh;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -43,6 +60,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

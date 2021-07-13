@@ -7,9 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          海のような波。
-        </p>
+        <div className='App-Title-Container'>
+          <div className='App-Title-Body'>
+            <p className='App-Title'>
+              海のような波。
+            </p>
+          </div>
+        </div>
         <div className='App-link-container'>
           <a
             className="App-link"
