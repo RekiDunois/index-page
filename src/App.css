@@ -41,13 +41,12 @@
 
 .App-link {
   color: #61dafb;
-  padding-right: 3vh;
-  padding-left: 3vh;
+  padding: 2vh;
 }
 
 .Title-Container {
   background-color: rgba(0, 0, 0, 0.349);
-  border-radius: 5vh;
+  border-radius: 3vh;
   text-decoration: none;
 }
 
