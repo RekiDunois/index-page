@@ -22,6 +22,8 @@ jobs:
           persisit-credentials: false
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
+      - name: Set pages url
+        run: touch .env && echo 'PUBLIC_URL=https://rekidunois.github.io/index-page' >> .env
       - name: Build
         run: yarn run build
       - name: Deploy
