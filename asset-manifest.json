@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3578ae72.css",
-    "main.js": "/static/js/main.48b8e7fa.js",
-    "static/js/787.f4ce0256.chunk.js": "/static/js/787.f4ce0256.chunk.js",
-    "static/media/background-kc.png": "/static/media/background-kc.368599c79d3619bfaf43.png",
-    "static/media/logo.png": "/static/media/logo.cf2c39ca261e0177a3a0.png",
-    "index.html": "/index.html",
-    "main.3578ae72.css.map": "/static/css/main.3578ae72.css.map",
-    "main.48b8e7fa.js.map": "/static/js/main.48b8e7fa.js.map",
-    "787.f4ce0256.chunk.js.map": "/static/js/787.f4ce0256.chunk.js.map"
+    "main.css": "https://rekidunois.github.io/index-page/static/css/main.1e425442.css",
+    "main.js": "https://rekidunois.github.io/index-page/static/js/main.03945d2c.js",
+    "static/js/787.f4ce0256.chunk.js": "https://rekidunois.github.io/index-page/static/js/787.f4ce0256.chunk.js",
+    "static/media/background-kc.png": "https://rekidunois.github.io/index-page/static/media/background-kc.368599c79d3619bfaf43.png",
+    "static/media/logo.png": "https://rekidunois.github.io/index-page/static/media/logo.cf2c39ca261e0177a3a0.png",
+    "index.html": "https://rekidunois.github.io/index-page/index.html",
+    "main.1e425442.css.map": "https://rekidunois.github.io/index-page/static/css/main.1e425442.css.map",
+    "main.03945d2c.js.map": "https://rekidunois.github.io/index-page/static/js/main.03945d2c.js.map",
+    "787.f4ce0256.chunk.js.map": "https://rekidunois.github.io/index-page/static/js/787.f4ce0256.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3578ae72.css",
-    "static/js/main.48b8e7fa.js"
+    "static/css/main.1e425442.css",
+    "static/js/main.03945d2c.js"
   ]
 }
