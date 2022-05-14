@@ -18,9 +18,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
           persisit-credentials: false
-      - name: Instal Dependencies
+      - name: Install Dependencies
         run: yarn install --frozen-lockfile
       - name: Build
         run: yarn run build
